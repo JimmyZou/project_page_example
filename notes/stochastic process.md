@@ -5,7 +5,7 @@
 ## 王子安同学的课程学习文档（样例）
 ## 基本定义
 ### 随机变量
-在概率的代数空间 $(\Omega,\Sigma,P)$ 中
+在概率的代数空间 $`(\Omega,\Sigma,P)`$ 中
 定义的一个随机变量
 $$
 	Z:\Omega \rightarrow \mathbb{R} 
